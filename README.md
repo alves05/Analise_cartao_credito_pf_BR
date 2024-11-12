@@ -10,6 +10,9 @@
     - Saulo Bernardo;
     - Wiliams Alves.
 
+## Data Storytelling
+
+<img src='./Data_Storytelling.png' width=600>
 
 ### Contexto
 
