@@ -20,7 +20,7 @@ A empresa MBA Data Science e IA está planejando lançar um cartão de crédito 
 
 ### Problema
 
-No inicio do ano de 2024 a empresa XYZ planeja lançar um cartão de crédito, para que a empresa tenha sucesso no seu novo produto, precisa entender o cenário de endividamento, inadimplência e o risco de perda de diferentes perfis de clientes, a fim de calibrar suas ofertas e estratégias de mitigação de risco. A análise abaixo foca em três dimensões principais:
+No inicio do ano de 2024 a empresa MBA Data Science e IA planeja lançar um cartão de crédito, para que a empresa tenha sucesso no seu novo produto, precisa entender o cenário de endividamento, inadimplência e o risco de perda de diferentes perfis de clientes, a fim de calibrar suas ofertas e estratégias de mitigação de risco. A análise abaixo foca em três dimensões principais:
 
 1. **Endividamento**: Refere-se ao valor total da carteira de crédito em relação ao valor inadimplente. A empresa precisa entender qual é o nível de endividamento dos clientes com cartão de crédito, especialmente em relação aos tipos de ocupação e porte de cliente.
 
